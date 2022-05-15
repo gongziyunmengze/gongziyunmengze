@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/gzyun" target="_blank"><img src="Img/唤灵魅影背景.jpg"></a>
+  <a href="https://github.com/gongziyunmengze" target="_blank"><img src="Img/唤灵魅影背景.jpg"></a>
 </p>
 
 
