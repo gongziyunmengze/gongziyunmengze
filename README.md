@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/gongziyunmengze" target="_blank"><img src="Img/唤灵魅影背景.jpg"></a>
+  <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/141/141-bigskin-8.jpg"></a>
 </p>
 
 
