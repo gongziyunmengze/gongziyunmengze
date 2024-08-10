@@ -30,7 +30,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="java"></a>
+    <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-java-%23F7DF1C?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="java"></a>
     <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-Git-%23F7DF1C?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="git">
 </a>
 </p>
