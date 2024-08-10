@@ -27,13 +27,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gongziyunmengze.readme" alt="访客徽章" target="_blank"/>
 </p>
 
-
-
-<p align="center">
-    <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a" alt="java"></a>
-    <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-Git-%23F7DF1C?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="git">
-</a>
-</p>
 <p align="center">
     <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-Eclipse-%23F7DF1C?style=for-the-badge&logo=eclipse&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="eclipse"></a>
 <a href="https://github.com/gongziyunmengze" target="_blank"><img src="https://img.shields.io/badge/-Idea-%23F7DF1C?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC"alt="idea"></a>
